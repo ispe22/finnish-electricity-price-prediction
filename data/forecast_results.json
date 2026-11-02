@@ -1,239 +1,119 @@
 {
     "history": [
         {
-            "timestamp": "2026-10-25T01:00:00+03:00",
-            "real_price": 4.1175,
-            "pred_price": -19.548582077026367
-        },
-        {
-            "timestamp": "2026-10-25T02:00:00+03:00",
-            "real_price": 3.2675,
-            "pred_price": -31.021963119506836
-        },
-        {
-            "timestamp": "2026-10-25T03:00:00+03:00",
-            "real_price": 1.6,
-            "pred_price": -31.698678970336914
-        },
-        {
-            "timestamp": "2026-10-25T03:00:00+02:00",
-            "real_price": 1.685,
-            "pred_price": -31.49150276184082
-        },
-        {
-            "timestamp": "2026-10-25T04:00:00+02:00",
-            "real_price": 1.365,
-            "pred_price": -31.974544525146484
-        },
-        {
-            "timestamp": "2026-10-25T05:00:00+02:00",
-            "real_price": 1.1099999999999999,
-            "pred_price": 4.5399322509765625
-        },
-        {
-            "timestamp": "2026-10-25T06:00:00+02:00",
-            "real_price": 1.045,
-            "pred_price": 4.243068218231201
-        },
-        {
-            "timestamp": "2026-10-25T07:00:00+02:00",
-            "real_price": 1.1749999999999998,
-            "pred_price": 7.536404132843018
-        },
-        {
-            "timestamp": "2026-10-25T08:00:00+02:00",
-            "real_price": 1.2525,
-            "pred_price": 12.13205623626709
-        },
-        {
-            "timestamp": "2026-10-25T09:00:00+02:00",
-            "real_price": 1.185,
-            "pred_price": 12.99136734008789
-        },
-        {
-            "timestamp": "2026-10-25T10:00:00+02:00",
-            "real_price": 1.0975,
-            "pred_price": 11.38036060333252
-        },
-        {
-            "timestamp": "2026-10-25T11:00:00+02:00",
-            "real_price": 1.4100000000000001,
-            "pred_price": 14.47443675994873
-        },
-        {
-            "timestamp": "2026-10-25T12:00:00+02:00",
-            "real_price": 1.5,
-            "pred_price": 15.063643455505371
-        },
-        {
-            "timestamp": "2026-10-25T13:00:00+02:00",
-            "real_price": 1.8399999999999999,
-            "pred_price": 14.116990089416504
-        },
-        {
-            "timestamp": "2026-10-25T14:00:00+02:00",
-            "real_price": 2.44,
-            "pred_price": 9.598276138305664
-        },
-        {
-            "timestamp": "2026-10-25T15:00:00+02:00",
-            "real_price": 3.5325,
-            "pred_price": 14.010377883911133
-        },
-        {
-            "timestamp": "2026-10-25T16:00:00+02:00",
-            "real_price": 3.86,
-            "pred_price": 9.051613807678223
-        },
-        {
-            "timestamp": "2026-10-25T17:00:00+02:00",
-            "real_price": 3.59,
-            "pred_price": 13.520069122314453
-        },
-        {
-            "timestamp": "2026-10-25T18:00:00+02:00",
-            "real_price": 3.5725,
-            "pred_price": 13.298361778259277
-        },
-        {
-            "timestamp": "2026-10-25T19:00:00+02:00",
-            "real_price": 3.6175,
-            "pred_price": 12.338068962097168
-        },
-        {
-            "timestamp": "2026-10-25T20:00:00+02:00",
-            "real_price": 3.2325,
-            "pred_price": 11.03832721710205
-        },
-        {
-            "timestamp": "2026-10-25T21:00:00+02:00",
-            "real_price": 2.2875,
-            "pred_price": 10.539610862731934
-        },
-        {
-            "timestamp": "2026-10-25T22:00:00+02:00",
-            "real_price": 2.515,
-            "pred_price": 10.057284355163574
-        },
-        {
-            "timestamp": "2026-10-25T23:00:00+02:00",
-            "real_price": 1.855,
-            "pred_price": 0.8824599385261536
-        },
-        {
             "timestamp": "2026-10-26T00:00:00+02:00",
             "real_price": 1.475,
-            "pred_price": 5.353490352630615
+            "pred_price": -31.991397857666016
         },
         {
             "timestamp": "2026-10-26T01:00:00+02:00",
             "real_price": 1.2825,
-            "pred_price": 4.325315475463867
+            "pred_price": -33.43413162231445
         },
         {
             "timestamp": "2026-10-26T02:00:00+02:00",
             "real_price": 0.5475,
-            "pred_price": 6.247135162353516
+            "pred_price": -31.810998916625977
         },
         {
             "timestamp": "2026-10-26T03:00:00+02:00",
             "real_price": 0.5125,
-            "pred_price": 5.941738128662109
+            "pred_price": -31.534927368164062
         },
         {
             "timestamp": "2026-10-26T04:00:00+02:00",
             "real_price": 0.060000000000000005,
-            "pred_price": 7.983997344970703
+            "pred_price": -29.51945686340332
         },
         {
             "timestamp": "2026-10-26T05:00:00+02:00",
             "real_price": 0.7125,
-            "pred_price": 7.55001974105835
+            "pred_price": 9.197587966918945
         },
         {
             "timestamp": "2026-10-26T06:00:00+02:00",
             "real_price": 1.85,
-            "pred_price": 7.69646692276001
+            "pred_price": 9.1896333694458
         },
         {
             "timestamp": "2026-10-26T07:00:00+02:00",
             "real_price": 3.0925000000000002,
-            "pred_price": 9.436107635498047
+            "pred_price": 11.397327423095703
         },
         {
             "timestamp": "2026-10-26T08:00:00+02:00",
             "real_price": 4.03,
-            "pred_price": 9.605522155761719
+            "pred_price": 11.790117263793945
         },
         {
             "timestamp": "2026-10-26T09:00:00+02:00",
             "real_price": 6.6775,
-            "pred_price": 10.886848449707031
+            "pred_price": 12.709147453308105
         },
         {
             "timestamp": "2026-10-26T10:00:00+02:00",
             "real_price": 6.9475,
-            "pred_price": 11.400147438049316
+            "pred_price": 16.681730270385742
         },
         {
             "timestamp": "2026-10-26T11:00:00+02:00",
             "real_price": 7.0225,
-            "pred_price": 12.200111389160156
+            "pred_price": 19.36513900756836
         },
         {
             "timestamp": "2026-10-26T12:00:00+02:00",
             "real_price": 6.8825,
-            "pred_price": 15.504591941833496
+            "pred_price": 22.343320846557617
         },
         {
             "timestamp": "2026-10-26T13:00:00+02:00",
             "real_price": 7.05,
-            "pred_price": 13.976129531860352
+            "pred_price": 20.2101993560791
         },
         {
             "timestamp": "2026-10-26T14:00:00+02:00",
             "real_price": 6.1625,
-            "pred_price": 8.758094787597656
+            "pred_price": 12.381330490112305
         },
         {
             "timestamp": "2026-10-26T15:00:00+02:00",
             "real_price": 8.45,
-            "pred_price": 8.945073127746582
+            "pred_price": 12.667091369628906
         },
         {
             "timestamp": "2026-10-26T16:00:00+02:00",
             "real_price": 10.38,
-            "pred_price": 10.603564262390137
+            "pred_price": 13.051896095275879
         },
         {
             "timestamp": "2026-10-26T17:00:00+02:00",
             "real_price": 9.469999999999999,
-            "pred_price": 9.585408210754395
+            "pred_price": 15.054034233093262
         },
         {
             "timestamp": "2026-10-26T18:00:00+02:00",
             "real_price": 5.717499999999999,
-            "pred_price": 9.518479347229004
+            "pred_price": 10.94946002960205
         },
         {
             "timestamp": "2026-10-26T19:00:00+02:00",
             "real_price": 4.6775,
-            "pred_price": 9.790806770324707
+            "pred_price": 10.36158561706543
         },
         {
             "timestamp": "2026-10-26T20:00:00+02:00",
             "real_price": 4.53,
-            "pred_price": 9.742107391357422
+            "pred_price": 10.266181945800781
         },
         {
             "timestamp": "2026-10-26T21:00:00+02:00",
             "real_price": 3.8025,
-            "pred_price": 8.517044067382812
+            "pred_price": 10.878145217895508
         },
         {
             "timestamp": "2026-10-26T22:00:00+02:00",
             "real_price": 4.395,
-            "pred_price": 6.0389251708984375
+            "pred_price": 9.84933853149414
         },
         {
             "timestamp": "2026-10-26T23:00:00+02:00",
@@ -913,502 +793,606 @@
         {
             "timestamp": "2026-11-01T14:00:00+02:00",
             "real_price": 23.002499999999998,
-            "pred_price": 15.038899421691895
+            "pred_price": 19.025083541870117
         },
         {
             "timestamp": "2026-11-01T15:00:00+02:00",
             "real_price": 24.26,
-            "pred_price": 18.990665435791016
+            "pred_price": 24.20748519897461
         },
         {
             "timestamp": "2026-11-01T16:00:00+02:00",
             "real_price": 36.6975,
-            "pred_price": 27.773923873901367
+            "pred_price": 36.11415100097656
         },
         {
             "timestamp": "2026-11-01T17:00:00+02:00",
             "real_price": 62.0775,
-            "pred_price": 33.12612533569336
+            "pred_price": 40.98241424560547
         },
         {
             "timestamp": "2026-11-01T18:00:00+02:00",
             "real_price": 64.6325,
-            "pred_price": 40.25334548950195
+            "pred_price": 35.3135871887207
         },
         {
             "timestamp": "2026-11-01T19:00:00+02:00",
             "real_price": 69.6875,
-            "pred_price": 55.169986724853516
+            "pred_price": 41.85577392578125
+        },
+        {
+            "timestamp": "2026-11-01T20:00:00+02:00",
+            "real_price": 66.44999999999999,
+            "pred_price": 49.802406311035156
+        },
+        {
+            "timestamp": "2026-11-01T21:00:00+02:00",
+            "real_price": 57.1,
+            "pred_price": 49.75804138183594
+        },
+        {
+            "timestamp": "2026-11-01T22:00:00+02:00",
+            "real_price": 43.2,
+            "pred_price": 67.23887634277344
+        },
+        {
+            "timestamp": "2026-11-01T23:00:00+02:00",
+            "real_price": 32.4775,
+            "pred_price": 63.60997772216797
+        },
+        {
+            "timestamp": "2026-11-02T00:00:00+02:00",
+            "real_price": 24.545,
+            "pred_price": 70.82262420654297
+        },
+        {
+            "timestamp": "2026-11-02T01:00:00+02:00",
+            "real_price": 56.5275,
+            "pred_price": 55.06106948852539
+        },
+        {
+            "timestamp": "2026-11-02T02:00:00+02:00",
+            "real_price": 43.215,
+            "pred_price": 54.771121978759766
+        },
+        {
+            "timestamp": "2026-11-02T03:00:00+02:00",
+            "real_price": 31.93,
+            "pred_price": 58.439781188964844
+        },
+        {
+            "timestamp": "2026-11-02T04:00:00+02:00",
+            "real_price": 36.1725,
+            "pred_price": 77.54999542236328
+        },
+        {
+            "timestamp": "2026-11-02T05:00:00+02:00",
+            "real_price": 32.15,
+            "pred_price": 75.68726348876953
+        },
+        {
+            "timestamp": "2026-11-02T06:00:00+02:00",
+            "real_price": 105.8275,
+            "pred_price": 115.35719299316406
+        },
+        {
+            "timestamp": "2026-11-02T07:00:00+02:00",
+            "real_price": 177.5725,
+            "pred_price": 155.35096740722656
+        },
+        {
+            "timestamp": "2026-11-02T08:00:00+02:00",
+            "real_price": 334.9325,
+            "pred_price": 170.63465881347656
+        },
+        {
+            "timestamp": "2026-11-02T09:00:00+02:00",
+            "real_price": 350.0,
+            "pred_price": 169.2921142578125
+        },
+        {
+            "timestamp": "2026-11-02T10:00:00+02:00",
+            "real_price": 361.7125,
+            "pred_price": 172.6752166748047
+        },
+        {
+            "timestamp": "2026-11-02T11:00:00+02:00",
+            "real_price": 376.2275,
+            "pred_price": 176.02159118652344
+        },
+        {
+            "timestamp": "2026-11-02T12:00:00+02:00",
+            "real_price": 390.4325,
+            "pred_price": 167.40924072265625
+        },
+        {
+            "timestamp": "2026-11-02T13:00:00+02:00",
+            "real_price": 402.47749999999996,
+            "pred_price": 162.19229125976562
+        },
+        {
+            "timestamp": "2026-11-02T14:00:00+02:00",
+            "real_price": 385.515,
+            "pred_price": 128.49356079101562
+        },
+        {
+            "timestamp": "2026-11-02T15:00:00+02:00",
+            "real_price": 297.0025,
+            "pred_price": 118.24555206298828
+        },
+        {
+            "timestamp": "2026-11-02T16:00:00+02:00",
+            "real_price": 346.2425,
+            "pred_price": 107.192138671875
+        },
+        {
+            "timestamp": "2026-11-02T17:00:00+02:00",
+            "real_price": 404.47,
+            "pred_price": 111.26393127441406
+        },
+        {
+            "timestamp": "2026-11-02T18:00:00+02:00",
+            "real_price": 275.93,
+            "pred_price": 102.66873931884766
+        },
+        {
+            "timestamp": "2026-11-02T19:00:00+02:00",
+            "real_price": 177.45499999999998,
+            "pred_price": 73.97209930419922
+        },
+        {
+            "timestamp": "2026-11-02T20:00:00+02:00",
+            "real_price": 163.7,
+            "pred_price": 74.46580505371094
+        },
+        {
+            "timestamp": "2026-11-02T21:00:00+02:00",
+            "real_price": 85.2025,
+            "pred_price": 50.89472961425781
+        },
+        {
+            "timestamp": "2026-11-02T22:00:00+02:00",
+            "real_price": 53.184999999999995,
+            "pred_price": 51.49907684326172
+        },
+        {
+            "timestamp": "2026-11-02T23:00:00+02:00",
+            "real_price": 23.005,
+            "pred_price": 40.131900787353516
         }
     ],
     "forecast": [
         {
-            "timestamp": "2026-11-01T20:00:00+02:00",
-            "pred_price": 70.04241943359375,
-            "real_price": 66.44999999999999,
-            "wind_forecast": 1876.975,
-            "consumption_forecast": 9501.5,
-            "temp_helsinki": 8.8,
-            "residual_demand": 5129.160555555556
-        },
-        {
-            "timestamp": "2026-11-01T21:00:00+02:00",
-            "pred_price": 72.45154571533203,
-            "real_price": 57.1,
-            "wind_forecast": 1646.55,
-            "consumption_forecast": 9324.7,
-            "temp_helsinki": 8.9,
-            "residual_demand": 5182.785555555556
-        },
-        {
-            "timestamp": "2026-11-01T22:00:00+02:00",
-            "pred_price": 88.22362518310547,
-            "real_price": 43.2,
-            "wind_forecast": 1493.4,
-            "consumption_forecast": 9483.825,
-            "temp_helsinki": 8.8,
-            "residual_demand": 5495.060555555556
-        },
-        {
-            "timestamp": "2026-11-01T23:00:00+02:00",
-            "pred_price": 93.98468017578125,
-            "real_price": 32.4775,
-            "wind_forecast": 1466.35,
-            "consumption_forecast": 9562.05,
-            "temp_helsinki": 9.0,
-            "residual_demand": 5600.335555555555
-        },
-        {
-            "timestamp": "2026-11-02T00:00:00+02:00",
-            "pred_price": 94.8257827758789,
-            "real_price": 24.545,
-            "wind_forecast": 1559.925,
-            "consumption_forecast": 9391.1,
-            "temp_helsinki": 9.3,
-            "residual_demand": 5335.810555555556
-        },
-        {
-            "timestamp": "2026-11-02T01:00:00+02:00",
-            "pred_price": 93.19722747802734,
-            "real_price": 56.5275,
-            "wind_forecast": 1654.45,
-            "consumption_forecast": 9208.5,
-            "temp_helsinki": 9.1,
-            "residual_demand": 5058.685555555556
-        },
-        {
-            "timestamp": "2026-11-02T02:00:00+02:00",
-            "pred_price": 80.66060638427734,
-            "real_price": 43.215,
-            "wind_forecast": 1657.9,
-            "consumption_forecast": 9165.5,
-            "temp_helsinki": 9.2,
-            "residual_demand": 5012.235555555555
-        },
-        {
-            "timestamp": "2026-11-02T03:00:00+02:00",
-            "pred_price": 87.73027038574219,
-            "real_price": 31.93,
-            "wind_forecast": 1604.75,
-            "consumption_forecast": 9171.8,
-            "temp_helsinki": 9.2,
-            "residual_demand": 5071.685555555555
-        },
-        {
-            "timestamp": "2026-11-02T04:00:00+02:00",
-            "pred_price": 83.63907623291016,
-            "real_price": 36.1725,
-            "wind_forecast": 1492.725,
-            "consumption_forecast": 9170.3,
-            "temp_helsinki": 9.1,
-            "residual_demand": 5182.210555555555
-        },
-        {
-            "timestamp": "2026-11-02T05:00:00+02:00",
-            "pred_price": 99.0292739868164,
-            "real_price": 32.15,
-            "wind_forecast": 1334.1,
-            "consumption_forecast": 9346.75,
-            "temp_helsinki": 9.2,
-            "residual_demand": 5517.285555555556
-        },
-        {
-            "timestamp": "2026-11-02T06:00:00+02:00",
-            "pred_price": 115.40885162353516,
-            "real_price": 105.8275,
-            "wind_forecast": 1173.15,
-            "consumption_forecast": 9812.8,
-            "temp_helsinki": 9.1,
-            "residual_demand": 6144.285555555554
-        },
-        {
-            "timestamp": "2026-11-02T07:00:00+02:00",
-            "pred_price": 162.7306671142578,
-            "real_price": 177.5725,
-            "wind_forecast": 990.55,
-            "consumption_forecast": 10078.375,
-            "temp_helsinki": 9.0,
-            "residual_demand": 6592.460555555555
-        },
-        {
-            "timestamp": "2026-11-02T08:00:00+02:00",
-            "pred_price": 190.12388610839844,
-            "real_price": 334.9325,
-            "wind_forecast": 789.35,
-            "consumption_forecast": 10202.95,
-            "temp_helsinki": 9.0,
-            "residual_demand": 6913.485555555557
-        },
-        {
-            "timestamp": "2026-11-02T09:00:00+02:00",
-            "pred_price": 207.75376892089844,
-            "real_price": 350.0,
-            "wind_forecast": 592.95,
-            "consumption_forecast": 10254.15,
-            "temp_helsinki": 8.9,
-            "residual_demand": 7094.260555555556
-        },
-        {
-            "timestamp": "2026-11-02T10:00:00+02:00",
-            "pred_price": 218.59986877441406,
-            "real_price": 361.7125,
-            "wind_forecast": 456.825,
-            "consumption_forecast": 10278.55,
-            "temp_helsinki": 8.9,
-            "residual_demand": 7193.085555555555
-        },
-        {
-            "timestamp": "2026-11-02T11:00:00+02:00",
-            "pred_price": 198.2098846435547,
-            "real_price": 376.2275,
-            "wind_forecast": 368.75,
-            "consumption_forecast": 10257.7,
-            "temp_helsinki": 9.1,
-            "residual_demand": 7218.310555555556
-        },
-        {
-            "timestamp": "2026-11-02T12:00:00+02:00",
-            "pred_price": 190.81130981445312,
-            "real_price": 390.4325,
-            "wind_forecast": 344.725,
-            "consumption_forecast": 10222.05,
-            "temp_helsinki": 9.2,
-            "residual_demand": 7185.260555555555
-        },
-        {
-            "timestamp": "2026-11-02T13:00:00+02:00",
-            "pred_price": 197.3709716796875,
-            "real_price": 402.47749999999996,
-            "wind_forecast": 409.6,
-            "consumption_forecast": 10141.825,
-            "temp_helsinki": 9.3,
-            "residual_demand": 7070.410555555556
-        },
-        {
-            "timestamp": "2026-11-02T14:00:00+02:00",
-            "pred_price": 190.69400024414062,
-            "real_price": 385.515,
-            "wind_forecast": 565.425,
-            "consumption_forecast": 10068.175,
-            "temp_helsinki": 9.4,
-            "residual_demand": 6906.235555555555
-        },
-        {
-            "timestamp": "2026-11-02T15:00:00+02:00",
-            "pred_price": 185.2451171875,
-            "real_price": 297.0025,
-            "wind_forecast": 863.2,
-            "consumption_forecast": 10036.35,
-            "temp_helsinki": 9.1,
-            "residual_demand": 6648.035555555556
-        },
-        {
-            "timestamp": "2026-11-02T16:00:00+02:00",
-            "pred_price": 165.2542724609375,
-            "real_price": 346.2425,
-            "wind_forecast": 1218.55,
-            "consumption_forecast": 10074.75,
-            "temp_helsinki": 8.3,
-            "residual_demand": 6360.835555555555
-        },
-        {
-            "timestamp": "2026-11-02T17:00:00+02:00",
-            "pred_price": 145.28297424316406,
-            "real_price": 404.47,
-            "wind_forecast": 1525.5,
-            "consumption_forecast": 10172.625,
-            "temp_helsinki": 7.9,
-            "residual_demand": 6151.760555555556
-        },
-        {
-            "timestamp": "2026-11-02T18:00:00+02:00",
-            "pred_price": 129.43115234375,
-            "real_price": 275.93,
-            "wind_forecast": 1862.6,
-            "consumption_forecast": 10223.375,
-            "temp_helsinki": 7.7,
-            "residual_demand": 5865.410555555556
-        },
-        {
-            "timestamp": "2026-11-02T19:00:00+02:00",
-            "pred_price": 103.84883880615234,
-            "real_price": 177.45499999999998,
-            "wind_forecast": 2225.025,
-            "consumption_forecast": 10249.45,
-            "temp_helsinki": 7.3,
-            "residual_demand": 5529.060555555556
-        },
-        {
-            "timestamp": "2026-11-02T20:00:00+02:00",
-            "pred_price": 85.9408950805664,
-            "real_price": 163.7,
-            "wind_forecast": 2486.775,
-            "consumption_forecast": 10244.225,
-            "temp_helsinki": 7.0,
-            "residual_demand": 5262.085555555555
-        },
-        {
-            "timestamp": "2026-11-02T21:00:00+02:00",
-            "pred_price": 68.84591674804688,
-            "real_price": 85.2025,
-            "wind_forecast": 2764.1,
-            "consumption_forecast": 9944.2,
-            "temp_helsinki": 6.8,
-            "residual_demand": 4684.735555555557
-        },
-        {
-            "timestamp": "2026-11-02T22:00:00+02:00",
-            "pred_price": 57.39628219604492,
-            "real_price": 53.184999999999995,
-            "wind_forecast": 3166.1749999999997,
-            "consumption_forecast": 10078.2,
-            "temp_helsinki": 5.9,
-            "residual_demand": 4416.660555555556
-        },
-        {
-            "timestamp": "2026-11-02T23:00:00+02:00",
-            "pred_price": 39.87838363647461,
-            "real_price": 23.005,
-            "wind_forecast": 3649.4750000000004,
-            "consumption_forecast": 10039.65,
-            "temp_helsinki": 5.0,
-            "residual_demand": 3894.810555555555
-        },
-        {
             "timestamp": "2026-11-03T00:00:00+02:00",
-            "pred_price": 24.119543075561523,
+            "pred_price": 18.592063903808594,
             "real_price": 6.984999999999999,
-            "wind_forecast": 4070.0,
-            "consumption_forecast": 9762.65,
-            "temp_helsinki": 4.2,
-            "residual_demand": 3197.285555555555
+            "wind_forecast": 4089.975,
+            "consumption_forecast": 9712.85,
+            "temp_helsinki": 6.4,
+            "residual_demand": 3006.584230769231
         },
         {
             "timestamp": "2026-11-03T01:00:00+02:00",
-            "pred_price": 17.658435821533203,
-            "real_price": null,
-            "wind_forecast": 4624.6,
-            "consumption_forecast": 9664.05,
-            "temp_helsinki": 3.7,
-            "residual_demand": 2544.0855555555545
+            "pred_price": 14.798441886901855,
+            "real_price": 5.7675,
+            "wind_forecast": 4448.725,
+            "consumption_forecast": 9651.574999999999,
+            "temp_helsinki": 5.5,
+            "residual_demand": 2586.5592307692295
         },
         {
             "timestamp": "2026-11-03T02:00:00+02:00",
-            "pred_price": 16.28306007385254,
-            "real_price": null,
-            "wind_forecast": 4994.5,
-            "consumption_forecast": 9542.575,
-            "temp_helsinki": 3.3,
-            "residual_demand": 2052.7105555555563
+            "pred_price": 12.020859718322754,
+            "real_price": 5.109999999999999,
+            "wind_forecast": 4766.425,
+            "consumption_forecast": 9549.05,
+            "temp_helsinki": 4.3,
+            "residual_demand": 2166.33423076923
         },
         {
             "timestamp": "2026-11-03T03:00:00+02:00",
-            "pred_price": 14.050365447998047,
-            "real_price": null,
-            "wind_forecast": 5307.6,
-            "consumption_forecast": 9533.85,
-            "temp_helsinki": 2.1,
-            "residual_demand": 1730.8855555555556
+            "pred_price": 10.2069730758667,
+            "real_price": 4.7725,
+            "wind_forecast": 5083.05,
+            "consumption_forecast": 9391.1,
+            "temp_helsinki": 3.4,
+            "residual_demand": 1691.7592307692312
         },
         {
             "timestamp": "2026-11-03T04:00:00+02:00",
-            "pred_price": 13.804466247558594,
-            "real_price": null,
-            "wind_forecast": 5633.025,
-            "consumption_forecast": 9558.3,
-            "temp_helsinki": 2.1,
-            "residual_demand": 1429.9105555555552
+            "pred_price": 8.691445350646973,
+            "real_price": 4.7425,
+            "wind_forecast": 5430.725,
+            "consumption_forecast": 9376.1,
+            "temp_helsinki": 3.2,
+            "residual_demand": 1329.084230769231
         },
         {
             "timestamp": "2026-11-03T05:00:00+02:00",
-            "pred_price": 15.02908706665039,
-            "real_price": null,
-            "wind_forecast": 5886.775,
-            "consumption_forecast": 9697.35,
-            "temp_helsinki": 2.4,
-            "residual_demand": 1315.2105555555554
+            "pred_price": 9.394758224487305,
+            "real_price": 4.9399999999999995,
+            "wind_forecast": 5763.375,
+            "consumption_forecast": 9488.35,
+            "temp_helsinki": 2.8,
+            "residual_demand": 1108.6842307692314
         },
         {
             "timestamp": "2026-11-03T06:00:00+02:00",
-            "pred_price": 12.350850105285645,
-            "real_price": null,
-            "wind_forecast": 6069.8,
-            "consumption_forecast": 10310.325,
-            "temp_helsinki": 2.3,
-            "residual_demand": 1745.1605555555561
+            "pred_price": 9.514430046081543,
+            "real_price": 5.345,
+            "wind_forecast": 6079.975,
+            "consumption_forecast": 9982.925000000001,
+            "temp_helsinki": 2.5,
+            "residual_demand": 1286.6592307692317
         },
         {
             "timestamp": "2026-11-03T07:00:00+02:00",
-            "pred_price": 28.5247859954834,
-            "real_price": null,
-            "wind_forecast": 6221.725,
-            "consumption_forecast": 10586.65,
-            "temp_helsinki": 2.5,
-            "residual_demand": 1869.560555555554
+            "pred_price": 18.90895652770996,
+            "real_price": 8.602500000000001,
+            "wind_forecast": 6158.65,
+            "consumption_forecast": 10292.1,
+            "temp_helsinki": 2.8,
+            "residual_demand": 1517.1592307692317
         },
         {
             "timestamp": "2026-11-03T08:00:00+02:00",
-            "pred_price": 35.0672721862793,
-            "real_price": null,
-            "wind_forecast": 6228.725,
-            "consumption_forecast": 10687.0,
-            "temp_helsinki": 3.2,
-            "residual_demand": 1938.1605555555543
+            "pred_price": 27.58816146850586,
+            "real_price": 15.0625,
+            "wind_forecast": 6201.925,
+            "consumption_forecast": 10367.0,
+            "temp_helsinki": 3.7,
+            "residual_demand": 1525.8092307692295
         },
         {
             "timestamp": "2026-11-03T09:00:00+02:00",
-            "pred_price": 36.74150848388672,
-            "real_price": null,
-            "wind_forecast": 6102.975,
-            "consumption_forecast": 10683.099999999999,
-            "temp_helsinki": 3.9,
-            "residual_demand": 1968.3605555555532
+            "pred_price": 28.379119873046875,
+            "real_price": 17.39,
+            "wind_forecast": 6164.299999999999,
+            "consumption_forecast": 10364.0,
+            "temp_helsinki": 4.6,
+            "residual_demand": 1473.209230769231
         },
         {
             "timestamp": "2026-11-03T10:00:00+02:00",
-            "pred_price": 35.74660110473633,
-            "real_price": null,
-            "wind_forecast": 5942.225,
-            "consumption_forecast": 10703.7,
-            "temp_helsinki": 4.9,
-            "residual_demand": 2060.485555555555
+            "pred_price": 27.54743003845215,
+            "real_price": 14.885,
+            "wind_forecast": 6022.325,
+            "consumption_forecast": 10370.9,
+            "temp_helsinki": 5.0,
+            "residual_demand": 1534.7842307692317
         },
         {
             "timestamp": "2026-11-03T11:00:00+02:00",
-            "pred_price": 35.8570556640625,
-            "real_price": null,
-            "wind_forecast": 5735.75,
-            "consumption_forecast": 10711.85,
+            "pred_price": 25.452255249023438,
+            "real_price": 16.1,
+            "wind_forecast": 5669.3,
+            "consumption_forecast": 10395.95,
             "temp_helsinki": 5.9,
-            "residual_demand": 2237.085555555557
+            "residual_demand": 1848.6092307692306
         },
         {
             "timestamp": "2026-11-03T12:00:00+02:00",
-            "pred_price": 33.2257194519043,
-            "real_price": null,
-            "wind_forecast": 5465.6,
-            "consumption_forecast": 10671.1,
-            "temp_helsinki": 6.3,
-            "residual_demand": 2421.1355555555547
+            "pred_price": 24.095441818237305,
+            "real_price": 16.9975,
+            "wind_forecast": 5355.95,
+            "consumption_forecast": 10328.25,
+            "temp_helsinki": 6.5,
+            "residual_demand": 2076.0592307692314
         },
         {
             "timestamp": "2026-11-03T13:00:00+02:00",
-            "pred_price": 32.838531494140625,
-            "real_price": null,
-            "wind_forecast": 5154.175,
-            "consumption_forecast": 10580.7,
-            "temp_helsinki": 6.8,
-            "residual_demand": 2702.3105555555558
+            "pred_price": 31.215797424316406,
+            "real_price": 15.9725,
+            "wind_forecast": 5233.525,
+            "consumption_forecast": 10245.074999999999,
+            "temp_helsinki": 7.0,
+            "residual_demand": 2142.45923076923
         },
         {
             "timestamp": "2026-11-03T14:00:00+02:00",
-            "pred_price": 35.70571517944336,
-            "real_price": null,
-            "wind_forecast": 4828.425,
-            "consumption_forecast": 10509.35,
-            "temp_helsinki": 6.9,
-            "residual_demand": 3010.1355555555556
+            "pred_price": 23.029327392578125,
+            "real_price": 22.8575,
+            "wind_forecast": 4944.825,
+            "consumption_forecast": 10100.15,
+            "temp_helsinki": 7.2,
+            "residual_demand": 2373.634230769231
         },
         {
             "timestamp": "2026-11-03T15:00:00+02:00",
-            "pred_price": 46.964046478271484,
-            "real_price": null,
-            "wind_forecast": 4503.975,
-            "consumption_forecast": 10561.3,
-            "temp_helsinki": 6.6,
-            "residual_demand": 3514.860555555554
+            "pred_price": 39.68843078613281,
+            "real_price": 24.6825,
+            "wind_forecast": 4548.05,
+            "consumption_forecast": 10141.95,
+            "temp_helsinki": 7.3,
+            "residual_demand": 2936.009230769231
         },
         {
             "timestamp": "2026-11-03T16:00:00+02:00",
-            "pred_price": 73.48812866210938,
-            "real_price": null,
-            "wind_forecast": 4177.25,
-            "consumption_forecast": 10685.4,
-            "temp_helsinki": 5.9,
-            "residual_demand": 4012.785555555555
+            "pred_price": 45.34906768798828,
+            "real_price": 28.994999999999997,
+            "wind_forecast": 4245.9,
+            "consumption_forecast": 10313.75,
+            "temp_helsinki": 6.8,
+            "residual_demand": 3443.259230769231
         },
         {
             "timestamp": "2026-11-03T17:00:00+02:00",
-            "pred_price": 97.37769317626953,
-            "real_price": null,
-            "wind_forecast": 3728.125,
-            "consumption_forecast": 10726.4,
-            "temp_helsinki": 5.1,
-            "residual_demand": 4502.910555555555
+            "pred_price": 46.92898178100586,
+            "real_price": 56.2575,
+            "wind_forecast": 3922.2,
+            "consumption_forecast": 10369.35,
+            "temp_helsinki": 6.2,
+            "residual_demand": 3830.8592307692315
         },
         {
             "timestamp": "2026-11-03T18:00:00+02:00",
-            "pred_price": 107.68367767333984,
-            "real_price": null,
-            "wind_forecast": 3144.25,
-            "consumption_forecast": 10803.25,
-            "temp_helsinki": 4.4,
-            "residual_demand": 5163.635555555556
+            "pred_price": 83.14707946777344,
+            "real_price": 138.38,
+            "wind_forecast": 3417.15,
+            "consumption_forecast": 10445.85,
+            "temp_helsinki": 5.4,
+            "residual_demand": 4412.409230769232
         },
         {
             "timestamp": "2026-11-03T19:00:00+02:00",
-            "pred_price": 117.46411895751953,
-            "real_price": null,
-            "wind_forecast": 2312.9500000000003,
-            "consumption_forecast": 10866.95,
-            "temp_helsinki": 3.6,
-            "residual_demand": 6058.6355555555565
+            "pred_price": 85.0937271118164,
+            "real_price": 235.3725,
+            "wind_forecast": 2698.15,
+            "consumption_forecast": 10522.25,
+            "temp_helsinki": 4.6,
+            "residual_demand": 5207.809230769231
         },
         {
             "timestamp": "2026-11-03T20:00:00+02:00",
-            "pred_price": 139.34498596191406,
-            "real_price": null,
-            "wind_forecast": 1843.175,
-            "consumption_forecast": 10734.0,
-            "temp_helsinki": 3.2,
-            "residual_demand": 6395.460555555555
+            "pred_price": 113.46370697021484,
+            "real_price": 265.245,
+            "wind_forecast": 2000.975,
+            "consumption_forecast": 10461.75,
+            "temp_helsinki": 4.0,
+            "residual_demand": 5844.484230769231
         },
         {
             "timestamp": "2026-11-03T21:00:00+02:00",
-            "pred_price": 137.78933715820312,
-            "real_price": null,
-            "wind_forecast": 1495.375,
-            "consumption_forecast": 10436.45,
-            "temp_helsinki": 2.7,
-            "residual_demand": 6445.710555555556
+            "pred_price": 101.72379302978516,
+            "real_price": 264.75,
+            "wind_forecast": 1401.6,
+            "consumption_forecast": 10311.900000000001,
+            "temp_helsinki": 3.6,
+            "residual_demand": 6294.009230769232
         },
         {
             "timestamp": "2026-11-03T22:00:00+02:00",
-            "pred_price": 139.08163452148438,
-            "real_price": null,
-            "wind_forecast": 1299.15,
-            "consumption_forecast": 10452.25,
-            "temp_helsinki": 2.4,
-            "residual_demand": 6657.735555555555
+            "pred_price": 134.46580505371094,
+            "real_price": 263.575,
+            "wind_forecast": 1026.6,
+            "consumption_forecast": 10335.3,
+            "temp_helsinki": 3.1,
+            "residual_demand": 6692.40923076923
         },
         {
             "timestamp": "2026-11-03T23:00:00+02:00",
-            "pred_price": 135.4517364501953,
+            "pred_price": 122.29800415039062,
+            "real_price": 219.6875,
+            "wind_forecast": 1097.8,
+            "consumption_forecast": 10109.2,
+            "temp_helsinki": 2.7,
+            "residual_demand": 6395.1092307692315
+        },
+        {
+            "timestamp": "2026-11-04T00:00:00+02:00",
+            "pred_price": 58.32587432861328,
+            "real_price": 135.1025,
+            "wind_forecast": 1621.15,
+            "consumption_forecast": 9736.475,
+            "temp_helsinki": 2.4,
+            "residual_demand": 5499.034230769232
+        },
+        {
+            "timestamp": "2026-11-04T01:00:00+02:00",
+            "pred_price": 36.47780990600586,
             "real_price": null,
-            "wind_forecast": 1236.8,
-            "consumption_forecast": 10335.65,
-            "temp_helsinki": 2.2,
-            "residual_demand": 6603.485555555555
+            "wind_forecast": 2270.05,
+            "consumption_forecast": 9585.25,
+            "temp_helsinki": 2.1,
+            "residual_demand": 4698.909230769231
+        },
+        {
+            "timestamp": "2026-11-04T02:00:00+02:00",
+            "pred_price": 27.883127212524414,
+            "real_price": null,
+            "wind_forecast": 2948.85,
+            "consumption_forecast": 9597.4,
+            "temp_helsinki": 1.8,
+            "residual_demand": 4032.2592307692303
+        },
+        {
+            "timestamp": "2026-11-04T03:00:00+02:00",
+            "pred_price": 20.017526626586914,
+            "real_price": null,
+            "wind_forecast": 3537.3,
+            "consumption_forecast": 9568.175,
+            "temp_helsinki": 1.6,
+            "residual_demand": 3414.58423076923
+        },
+        {
+            "timestamp": "2026-11-04T04:00:00+02:00",
+            "pred_price": 14.871869087219238,
+            "real_price": null,
+            "wind_forecast": 4018.05,
+            "consumption_forecast": 9512.8,
+            "temp_helsinki": 1.4,
+            "residual_demand": 2878.45923076923
+        },
+        {
+            "timestamp": "2026-11-04T05:00:00+02:00",
+            "pred_price": 15.875592231750488,
+            "real_price": null,
+            "wind_forecast": 4455.275,
+            "consumption_forecast": 9679.1,
+            "temp_helsinki": 1.5,
+            "residual_demand": 2607.5342307692317
+        },
+        {
+            "timestamp": "2026-11-04T06:00:00+02:00",
+            "pred_price": 19.980859756469727,
+            "real_price": null,
+            "wind_forecast": 4762.875,
+            "consumption_forecast": 10168.925,
+            "temp_helsinki": 1.9,
+            "residual_demand": 2789.7592307692303
+        },
+        {
+            "timestamp": "2026-11-04T07:00:00+02:00",
+            "pred_price": 18.393123626708984,
+            "real_price": null,
+            "wind_forecast": 5131.8,
+            "consumption_forecast": 10401.9,
+            "temp_helsinki": 2.7,
+            "residual_demand": 2653.8092307692305
+        },
+        {
+            "timestamp": "2026-11-04T08:00:00+02:00",
+            "pred_price": 22.20844841003418,
+            "real_price": null,
+            "wind_forecast": 5643.1,
+            "consumption_forecast": 10482.975,
+            "temp_helsinki": 3.3,
+            "residual_demand": 2210.2842307692317
+        },
+        {
+            "timestamp": "2026-11-04T09:00:00+02:00",
+            "pred_price": 27.456497192382812,
+            "real_price": null,
+            "wind_forecast": 6016.175,
+            "consumption_forecast": 10509.400000000001,
+            "temp_helsinki": 3.6,
+            "residual_demand": 1807.634230769232
+        },
+        {
+            "timestamp": "2026-11-04T10:00:00+02:00",
+            "pred_price": 23.876020431518555,
+            "real_price": null,
+            "wind_forecast": 6182.375,
+            "consumption_forecast": 10487.95,
+            "temp_helsinki": 4.0,
+            "residual_demand": 1562.7842307692317
+        },
+        {
+            "timestamp": "2026-11-04T11:00:00+02:00",
+            "pred_price": 20.597301483154297,
+            "real_price": null,
+            "wind_forecast": 6122.25,
+            "consumption_forecast": 10498.150000000001,
+            "temp_helsinki": 4.7,
+            "residual_demand": 1589.5342307692317
+        },
+        {
+            "timestamp": "2026-11-04T12:00:00+02:00",
+            "pred_price": 14.741947174072266,
+            "real_price": null,
+            "wind_forecast": 5976.1,
+            "consumption_forecast": 10405.45,
+            "temp_helsinki": 6.0,
+            "residual_demand": 1612.3592307692306
+        },
+        {
+            "timestamp": "2026-11-04T13:00:00+02:00",
+            "pred_price": 11.806931495666504,
+            "real_price": null,
+            "wind_forecast": 6161.575,
+            "consumption_forecast": 10242.925,
+            "temp_helsinki": 6.4,
+            "residual_demand": 1294.9092307692317
+        },
+        {
+            "timestamp": "2026-11-04T14:00:00+02:00",
+            "pred_price": 9.44949722290039,
+            "real_price": null,
+            "wind_forecast": 6482.025,
+            "consumption_forecast": 10144.975,
+            "temp_helsinki": 7.0,
+            "residual_demand": 931.0592307692314
+        },
+        {
+            "timestamp": "2026-11-04T15:00:00+02:00",
+            "pred_price": 9.2959566116333,
+            "real_price": null,
+            "wind_forecast": 6659.900000000001,
+            "consumption_forecast": 10137.849999999999,
+            "temp_helsinki": 7.6,
+            "residual_demand": 831.7092307692292
+        },
+        {
+            "timestamp": "2026-11-04T16:00:00+02:00",
+            "pred_price": 7.134371280670166,
+            "real_price": null,
+            "wind_forecast": 6809.575,
+            "consumption_forecast": 10307.075,
+            "temp_helsinki": 7.6,
+            "residual_demand": 881.2092307692328
+        },
+        {
+            "timestamp": "2026-11-04T17:00:00+02:00",
+            "pred_price": 5.515199661254883,
+            "real_price": null,
+            "wind_forecast": 6901.125,
+            "consumption_forecast": 10449.275,
+            "temp_helsinki": 7.4,
+            "residual_demand": 931.8592307692306
+        },
+        {
+            "timestamp": "2026-11-04T18:00:00+02:00",
+            "pred_price": 26.3165225982666,
+            "real_price": null,
+            "wind_forecast": 6942.125,
+            "consumption_forecast": 10560.45,
+            "temp_helsinki": 7.0,
+            "residual_demand": 1002.0342307692317
+        },
+        {
+            "timestamp": "2026-11-04T19:00:00+02:00",
+            "pred_price": 20.48236846923828,
+            "real_price": null,
+            "wind_forecast": 6963.05,
+            "consumption_forecast": 10536.15,
+            "temp_helsinki": 6.5,
+            "residual_demand": 956.8092307692295
+        },
+        {
+            "timestamp": "2026-11-04T20:00:00+02:00",
+            "pred_price": 19.878637313842773,
+            "real_price": null,
+            "wind_forecast": 7036.175,
+            "consumption_forecast": 10476.599999999999,
+            "temp_helsinki": 6.2,
+            "residual_demand": 824.1342307692285
+        },
+        {
+            "timestamp": "2026-11-04T21:00:00+02:00",
+            "pred_price": 14.324911117553711,
+            "real_price": null,
+            "wind_forecast": 7136.05,
+            "consumption_forecast": 10284.3,
+            "temp_helsinki": 6.0,
+            "residual_demand": 531.9592307692292
+        },
+        {
+            "timestamp": "2026-11-04T22:00:00+02:00",
+            "pred_price": 11.703417778015137,
+            "real_price": null,
+            "wind_forecast": 7194.675,
+            "consumption_forecast": 10272.3,
+            "temp_helsinki": 5.8,
+            "residual_demand": 461.3342307692292
+        },
+        {
+            "timestamp": "2026-11-04T23:00:00+02:00",
+            "pred_price": 7.7662458419799805,
+            "real_price": null,
+            "wind_forecast": 7202.425,
+            "consumption_forecast": 10022.9,
+            "temp_helsinki": 5.8,
+            "residual_demand": 204.18423076922954
         }
     ]
 }
